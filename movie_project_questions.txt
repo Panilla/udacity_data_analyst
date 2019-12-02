@@ -1,0 +1,45 @@
+
+
+
+Movie with largest adjusted revenue and budget?
+What year did that movie release?
+Oldest movie and stats for that movie compared to newest movie
+What do bestselling movies have in common?
+What does popularity mean?
+Do directors correlate with any other factors?
+Does runtime have anything to do with and other factors? Particularly budget?
+Popular genres... top revenue genres, etc.
+vote_count? vote_average?
+
+movie with highest vote average
+
+
+
+Vote Average per release year and budget per release year follow a similar pattern, in both line charts vote average and budget slowly increase until about 1990. Then we see a sharp increase in both values based on the year, with a drop-off around 2010. 
+Meanwhile, Profit and Adjusted Profit (profit based on Adjusted Budget and Adjusted Revenue) also show a more rapid change around 1990, but not as much as Budget or Vote Average. Both line charts for profit have a more steady incline and no drop-off at 2010. So, profits continue to rise beyond 2010. 
+Based on several scatter plots, there does not seem to be a relationship between Vote Average and the following values: Budget, Adjusted Budget, Runtime, nor Release Year.
+Average Budget: 3.720370e+07
+Average Adjusted Budget: 4.423999e+07
+Average Revenue: 1.076866e+08
+Average Adjusted Revenue: 1.370647e+08
+
+Scatter plots show a positive correlation with Revenue and Budget, but not with Revenue and Runtime, or Revenue and Release Year.
+Most common movies and their total profit:
+Action: 1.086483e+11
+Adventure: 1.111163e+11
+Comedy: 8.722095e+10
+Drama: 8.125869e+10
+Average profit of the most common genres: 9.706108e+10
+
+
+
+
+
+
+
+
+
+
+
+
+
